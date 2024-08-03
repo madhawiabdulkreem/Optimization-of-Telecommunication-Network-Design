@@ -1,7 +1,7 @@
 
 #################### CS 216: Design and Analysis of Algorithms Project ##################################
 #################### Optimization of Telecommunication Network Design ###########################
-                   #####   Madhawee Alabdulkreem - Shahad Baelayan	 ######
+                   #####   Madawee Alabdulkreem - Shahad Baelayan	 ######
 
 ################ Brute-force algorithm ####################
 import itertools 
